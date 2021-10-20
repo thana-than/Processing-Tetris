@@ -1,5 +1,5 @@
 # Processing-Tetris
-Open Source Tetris built into Processing 3.5.4
+Open Source Tetris built into Processing 3.5.4 Java
 Follows standard <a href="https://tetris.fandom.com/wiki/Tetris_Guideline">Tetris Guidelines</a> for endless marathon mode:
 <ul>
   <li>SRS rotation with proper kick tables</li>
