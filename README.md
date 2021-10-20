@@ -12,9 +12,16 @@ Follows standard <a href="https://tetris.fandom.com/wiki/Tetris_Guideline">Tetri
 </ul>
 
 # How to Install
+<h3>Method 1:</h3>
 <ol>
   <li>Install <a href="https://processing.org/download">Processing 3.5.4</a></li>
   <li>Open and run Tetris.pde</li>
+  <li>Enjoy!</li>
+</ol>
+<h3>Method 2:</h3>
+<ol>
+  <li>Download the latest <a href="https://github.com/thanthemannn/Processing-Tetris/releases">release zip</a></li>
+  <li>Unzip and run .exe</li>
   <li>Enjoy!</li>
 </ol>
 
