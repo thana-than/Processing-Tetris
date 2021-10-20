@@ -1,5 +1,5 @@
 # Processing-Tetris
-Open Source Tetris built into Processing 3.5.4 Java
+Open Source Tetris built into Processing 3.5.4 - Java.<br>
 Follows standard <a href="https://tetris.fandom.com/wiki/Tetris_Guideline">Tetris Guidelines</a> for endless marathon mode:
 <ul>
   <li>SRS rotation with proper kick tables</li>
@@ -19,8 +19,8 @@ Follows standard <a href="https://tetris.fandom.com/wiki/Tetris_Guideline">Tetri
 </ol>
 
 # Default Controls
-I don't like these controls... but they follow official Tetris Guidelines
-<br>These should be easy to modify by changing the button() bool methods:
+I don't like these controls... but they follow official Tetris Guidelines.<br>
+These should be easy to modify by changing the button() bool methods:
 <ul>
   <li>Left / Right = Move</li>
   <li>Z / X = Rotate</li>
